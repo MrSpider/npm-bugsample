@@ -1,0 +1,14 @@
+{
+  "name": "@shopiq/smp",
+  "version": "1.0.0",
+  "description": "The Shop-IQ Messaging Protocol typescript library",
+  "main": "index.ts",
+  "dependencies": {
+    "@types/msgpack-lite": "^0.1.6",
+    "msgpack-lite": "~0.1.26",
+    "rxjs": "^5.5.2"
+  },
+  "devDependencies": {
+    "typescript": "~2.6.1"
+  }
+}

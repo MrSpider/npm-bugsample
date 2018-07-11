@@ -1,0 +1,17 @@
+{
+  "name": "@shopiq/process-scheduler",
+  "version": "1.0.0",
+  "description": "Model logic for process scheduler used in both server and box-webinterface",
+  "main": "./process-scheduler-model.ts",
+  "dependencies": {
+    "semaphore-async-await": "^1.5.1"
+  },
+  "devDependencies": {},
+  "peerDependencies": {
+    "@angular/core": "^6.0.7",
+    "fullcalendar": "^3.9.0",
+    "moment": "^2.22.2",
+    "moment-range": "^4.0.1",
+    "lodash": "^4.17.10"
+  }
+}
